@@ -11,3 +11,4 @@ TODO:
   - Counting
   - Guess the number
   - One message each
+- Question of the Day/Challange of the Day
